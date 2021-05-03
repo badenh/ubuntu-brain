@@ -6,7 +6,7 @@ Essentially this script collection:
 
 * gets the current package list from NeuroFedora and COPR
 * finds the corresponding Fedora RPMs from https://fedora.pkgs.org/
-* converts the RPMs to DEBs using alien https://github.com/mildred/alien)
+* converts the RPMs to DEBs using alien https://github.com/mildred/alien
 * installs the DEBs
 
 No warranty etc.
