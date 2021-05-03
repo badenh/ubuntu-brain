@@ -11,4 +11,4 @@ Essentially this script collection:
 
 No warranty etc.
 
-Pre-converted packages are also here in packages/
+Pre-converted packages are also here in https://github.com/badenh/ubuntu-brain/tree/main/packages
