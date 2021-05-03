@@ -10,3 +10,5 @@ Essentially this script collection:
 * installs the DEBs
 
 No warranty etc.
+
+Pre-converted packages are also here in packages/
