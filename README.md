@@ -13,4 +13,7 @@ No warranty etc.
 
 Pre-converted packages are also stored here https://github.com/badenh/ubuntu-brain/tree/main/packages
 
-A full set of packages in a convenient distribution file is also here https://github.com/badenh/ubuntu-brain/tree/main/dist
+A full set of packages in a convenient distribution file (tar.gz) is also here https://github.com/badenh/ubuntu-brain/tree/main/dist
+
+Note: the content of NeuroFedora is not the same as the content of NeuroDebian http://neuro.debian.net/index.html
+NeuroDebian can already be easily installed on Ubuntu.
